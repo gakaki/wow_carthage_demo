@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'wow_carthage_demo_Example' do
+  pod 'wow_carthage_demo', :path => '../'
+
+  target 'wow_carthage_demo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
