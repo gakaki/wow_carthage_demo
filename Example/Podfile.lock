@@ -1,0 +1,31 @@
+PODS:
+  - Alamofire (4.0.1)
+  - RxCocoa (3.0.0-beta.1):
+    - RxSwift (~> 3.0.0-beta.1)
+  - RxDataSources (1.0.0-beta.2):
+    - RxCocoa (~> 3.0.0-beta.1)
+    - RxSwift (~> 3.0.0-beta.1)
+  - RxSwift (3.0.0-beta.1)
+  - wow_carthage_demo (0.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - RxCocoa (= 3.0.0-beta.1)
+  - RxDataSources (~> 1.0.0-beta.2)
+  - RxSwift (= 3.0.0-beta.1)
+  - wow_carthage_demo (from `../`)
+
+EXTERNAL SOURCES:
+  wow_carthage_demo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  RxCocoa: 8cecf331302b8ae5381bbab1bccba4ede2eae6a8
+  RxDataSources: 1cd87dc97fd46be002942eb1dcb1b432535141dd
+  RxSwift: 0823e8d7969c23bfa9ddfb2afa4881e424a1a710
+  wow_carthage_demo: 45f6430585f3de8c60fc74809d9d4e6d22a06efd
+
+PODFILE CHECKSUM: e38026127890706e356b25ff6a1da12c5fd72b37
+
+COCOAPODS: 1.1.0.rc.3

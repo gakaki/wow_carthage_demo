@@ -1,0 +1,22 @@
+{
+  "name": "wow_carthage_demo",
+  "version": "0.1.0",
+  "summary": "A short description of wow_carthage_demo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/wow_carthage_demo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gakaki": "gakaki@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/wow_carthage_demo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "wow_carthage_demo/Classes/**/*"
+}

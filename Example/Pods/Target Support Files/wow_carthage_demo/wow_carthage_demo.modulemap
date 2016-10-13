@@ -1,0 +1,6 @@
+framework module wow_carthage_demo {
+  umbrella header "wow_carthage_demo-umbrella.h"
+
+  export *
+  module * { export * }
+}
